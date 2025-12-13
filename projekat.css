@@ -24,13 +24,13 @@ header{
     font-size: 30px;
     margin-bottom: 20px;
     animation: efekatPojave 2s ease-in-out;
-    animation-delay: 0,5s;
+    animation-delay: 0.5s;
 }
 
 .pocetni p{
     font-size: 15px;
     animation: efekatPojave 2s ease-in-out;
-    animation-delay: 0,5s;
+    animation-delay: 0.5s;
 }
 
 @keyframes efekatPojave {
@@ -98,14 +98,14 @@ header{
     text-align: center;
     color: black;
     animation: efekatPojave 2s ease-in-out;
-    animation-delay: 0,5s;
+    animation-delay: 0.5s;
 }
 
 .opis p{
     text-align: center;
     color: black;
     animation: efekatPojave 2s ease-in-out;
-    animation-delay: 0,5s;
+    animation-delay: 0.5s;
 }
 
 .form p{
@@ -122,7 +122,7 @@ header{
 .usl h1{
     text-align: center;
     animation: efekatPojave 2s ease-in-out;
-    animation-delay: 0,5s;
+    animation-delay: 0.5s;
 }
 
 .usl p{
@@ -130,7 +130,7 @@ header{
     color: black;
     font-size: 20px;
     animation: efekatPojave 2s ease-in-out;
-    animation-delay: 0,5s;
+    animation-delay: 0.5s;
 }
 
 .column{
@@ -160,4 +160,5 @@ header{
     clear: both;
 
 }
+
 
