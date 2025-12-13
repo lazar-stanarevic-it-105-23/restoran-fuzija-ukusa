@@ -49,12 +49,12 @@ header{
 
 .nav ul{
     list-style: none;
-    padding: 0px;
+    padding: 0;
 }
 
 .nav ul li{
     display: inline-block;
-    margin: 0px 12px;
+    margin: 0 12;
     padding: 10px 15px;
     border: 1px dashed black;
 }
@@ -160,5 +160,6 @@ header{
     clear: both;
 
 }
+
 
 
