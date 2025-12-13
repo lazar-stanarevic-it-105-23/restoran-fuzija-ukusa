@@ -1,0 +1,4 @@
+User-agent: *
+Dissalow: /slike/
+
+sitemap: https://github.com/lazar-stanarevic-it-105-23/restoran-fuzija-ukusa/blob/main/sitemap.xml
